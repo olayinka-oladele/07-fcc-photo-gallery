@@ -1,16 +1,18 @@
-# Project Name
+# FCC PHOTO GALLERY
 
-> One paragraph statement about the project.
+> # A Photo gallery Using HTML,CSS and flexbox help design webpage so that it looks good on any screen size, in course flexbox is used to build a responsive Photo gallery.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
+> Using HTML/CSS tags by building cat photo app.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 form element
+  `div`, `header`, `img`, `div.gallery`.
+- CSS properties
+  `.gallery::after`, `.gallery image`, `.gallery`, `.image`
+  `*`
 
 ## Live Demo
 
@@ -21,7 +23,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/07-fcc-photo-gallery.git
 
 ```
 
@@ -65,14 +67,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +87,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Freecodecamp:
 
 ## 📝 License
 
